@@ -13,7 +13,7 @@ for(let s of str) {
   console.log(s)
 }
 
-//if we want to get the index
+//if we want to get the index of each element of array string
 let newStr = str.split('');
 console.log(newStr);
 
